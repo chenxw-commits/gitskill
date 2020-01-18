@@ -1,4 +1,4 @@
 # gitskill
-first
-sec
-thd
+# first
+# sec
+# thd
