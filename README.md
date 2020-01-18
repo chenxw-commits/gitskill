@@ -1,4 +1,1 @@
-# gitskill
-# first
-# sec
-# thd
+# gitskills
